@@ -21,9 +21,10 @@ npm install node-fetch
 node sheet-to-json.js
 node sheet-to-json_travel_history.js
 node sheet-to-json_raw_data.js
+node raw_data-to-state_district_wise_data.js
 node sheet-to-json_faq.js
 
-git add state_wise_raw.json data.json travel_history.json raw_data.json faq.json
+git add state_wise_raw.json data.json travel_history.json raw_data.json state_district_wise_raw.json faq.json
 set +e  # Grep succeeds with nonzero exit codes to show results.
 git status | grep 'new file\|modified'
 if [ $? -eq 0 ]
