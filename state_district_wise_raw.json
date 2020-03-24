@@ -1,6 +1,5 @@
 {
   "Kerala": {
-    "state": "Kerala",
     "districtData": {
       "Thrissur": {
         "active": 2,
@@ -82,7 +81,6 @@
     }
   },
   "Delhi": {
-    "state": "Delhi",
     "districtData": {
       "East Delhi": {
         "active": 0,
@@ -115,7 +113,6 @@
     }
   },
   "Telangana": {
-    "state": "Telangana",
     "districtData": {
       "Hyderabad": {
         "active": 28,
@@ -141,7 +138,6 @@
     }
   },
   "Rajasthan": {
-    "state": "Rajasthan",
     "districtData": {
       "Jaipur": {
         "active": 7,
@@ -188,7 +184,6 @@
     }
   },
   "Haryana": {
-    "state": "Haryana",
     "districtData": {
       "Gurugram": {
         "active": 17,
@@ -228,7 +223,6 @@
     }
   },
   "Uttar Pradesh": {
-    "state": "Uttar Pradesh",
     "districtData": {
       "Agra": {
         "active": 7,
@@ -296,7 +290,6 @@
     }
   },
   "Ladakh": {
-    "state": "Ladakh",
     "districtData": {
       "Leh": {
         "active": 11,
@@ -315,7 +308,6 @@
     }
   },
   "Tamil Nadu": {
-    "state": "Tamil Nadu",
     "districtData": {
       "Chennai": {
         "active": 4,
@@ -362,7 +354,6 @@
     }
   },
   "Jammu and Kashmir": {
-    "state": "Jammu and Kashmir",
     "districtData": {
       "Unknown": {
         "active": 2,
@@ -388,7 +379,6 @@
     }
   },
   "Karnataka": {
-    "state": "Karnataka",
     "districtData": {
       "Bengaluru": {
         "active": 20,
@@ -449,7 +439,6 @@
     }
   },
   "Maharashtra": {
-    "state": "Maharashtra",
     "districtData": {
       "Pune": {
         "active": 24,
@@ -524,7 +513,6 @@
     }
   },
   "Punjab": {
-    "state": "Punjab",
     "districtData": {
       "Amritsar": {
         "active": 2,
@@ -557,7 +545,6 @@
     }
   },
   "Andhra Pradesh": {
-    "state": "Andhra Pradesh",
     "districtData": {
       "S.P.S. Nellore": {
         "active": 1,
@@ -604,7 +591,6 @@
     }
   },
   "Uttarakhand": {
-    "state": "Uttarakhand",
     "districtData": {
       "Unknown": {
         "active": 4,
@@ -616,7 +602,6 @@
     }
   },
   "Odisha": {
-    "state": "Odisha",
     "districtData": {
       "Unknown": {
         "active": 2,
@@ -628,7 +613,6 @@
     }
   },
   "Puducherry": {
-    "state": "Puducherry",
     "districtData": {
       "Mahe": {
         "active": 1,
@@ -640,7 +624,6 @@
     }
   },
   "West Bengal": {
-    "state": "West Bengal",
     "districtData": {
       "Kolkata": {
         "active": 4,
@@ -673,7 +656,6 @@
     }
   },
   "Chandigarh": {
-    "state": "Chandigarh",
     "districtData": {
       "Chandigarh": {
         "active": 7,
@@ -685,7 +667,6 @@
     }
   },
   "Chhattisgarh": {
-    "state": "Chhattisgarh",
     "districtData": {
       "Unknown": {
         "active": 1,
@@ -697,7 +678,6 @@
     }
   },
   "Gujarat": {
-    "state": "Gujarat",
     "districtData": {
       "Rajkot": {
         "active": 1,
@@ -751,7 +731,6 @@
     }
   },
   "Himachal Pradesh": {
-    "state": "Himachal Pradesh",
     "districtData": {
       "Kangra": {
         "active": 2,
@@ -763,7 +742,6 @@
     }
   },
   "Madhya Pradesh": {
-    "state": "Madhya Pradesh",
     "districtData": {
       "Jabalpur": {
         "active": 5,
@@ -789,7 +767,6 @@
     }
   },
   "Bihar": {
-    "state": "Bihar",
     "districtData": {
       "Munger": {
         "active": 0,
@@ -808,7 +785,6 @@
     }
   },
   "Manipur": {
-    "state": "Manipur",
     "districtData": {
       "Unknown": {
         "active": 1,
@@ -820,7 +796,6 @@
     }
   },
   "Unknown": {
-    "state": "Unknown",
     "districtData": {
       "Unknown": {
         "active": 0,
